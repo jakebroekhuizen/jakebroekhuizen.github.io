@@ -8,6 +8,7 @@ titles:
   en-CA   : *EN
   en-AU   : *EN
 key: page-about
+permalink: /about
 ---
 
 <img src="/assets/img/Headshot.png" alt="Image Description" class="about-img">
