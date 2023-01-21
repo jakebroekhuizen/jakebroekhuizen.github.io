@@ -7,6 +7,6 @@ article_header:
     src: /screenshot.jpg
 ---
 
-Cool man, See [Page layout](https://kitian616.github.io/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+Cool man, See [Page layout](https://kitian616.github.io/jekyll-TeXt-theme/samples.html#page-layout) for more numnut.
 
 <!--more-->
