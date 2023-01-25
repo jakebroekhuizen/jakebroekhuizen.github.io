@@ -7,7 +7,7 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-    url: /Home.html
+    url: /
 
   - titles:
       # @start locale config
