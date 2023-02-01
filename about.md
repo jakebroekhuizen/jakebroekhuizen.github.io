@@ -13,7 +13,7 @@ permalink: /about
 
 <img src="/assets/img/Headshot.png" alt="Image Description" class="about-img">
 
-My name is Jake Broekhuizen and I graduated from the University of California, Berkeley with a BSc in Electrical Engineering and Computer Science. Here I was exposed to, and given hands-on experience with, some of the building blocks of the modern day technologies that we interact with in our day-to-day lives.
+Hey, I'm Jake and I graduated from the University of California, Berkeley with a BSc in Electrical Engineering and Computer Science. Here I was exposed to, and given hands-on experience with, some of the building blocks of the modern day technologies that we interact with in our day-to-day lives.
 
 I’m currently working as a Business Systems Analyst at ServiceNow and have previously worked as a Systems Architect and Technical Program Manager within the recycling and renewable energy industry. I also taught the fundamentals of programming and computer science in parallel to studying for my undergraduate degree at Berkeley.
 
