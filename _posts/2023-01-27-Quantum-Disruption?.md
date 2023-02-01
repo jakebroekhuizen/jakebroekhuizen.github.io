@@ -16,7 +16,7 @@ Fast-forward to the present day and we now have IBM’s whopping [433-qubit quan
 
 RSA - named after its founders, Rivest-Shamir-Adleman - is the most commonly used encryption system to secure communications over the internet. I wont dive too deep into the details of how it works - you can read more about it [here](https://www.techtarget.com/searchsecurity/definition/RSA) - but its security relies on the fact that part of the ‘RSA keys’ used in its algorithm is the product of two large prime numbers, and that factoring this product to find the original prime numbers requires an insurmountable amount of computing power. To put it into perspective, a modern computer would take 300 trillion years on average to crack a 2048-bit RSA key. It is this reliance on the lack of computational resources of current technology that ensures the security of all cryptographic methods, including RSA, used today.
 
-In early January this year, a team of researchers based in Beijing released a paper that claims they have found an algorithm that can potentially break 2048-bit RSA.
+In early January this year, a team of researchers based in Beijing released a [paper](https://arxiv.org/pdf/2212.12372.pdf) that claims they have found an algorithm that can potentially break 2048-bit RSA.
 
 > “*We estimate that a quantum circuit with 372 physical qubits and a depth of thousands is necessary to challenge RSA-2048 using our algorithm.”*
 > 
