@@ -7,15 +7,6 @@ comment: false
 license: false
 show_edit_on_github: false
 ---
-```{css style settings, echo = FALSE}
-blockquote {
-    padding: 10px 20px;
-    margin: 0 0 20px;
-    font-size: 14px;
-    border-left: 5px solid #eee;
-}
-```
-
 Chuang, Gershenfeld and Kubinec. Remember the names. <!--more-->
 
 In 1998, these three were responsible for [building the first quantum computer](https://www.britannica.com/technology/quantum-computer). Even though it was only 2-qubits (the quantum version of standard 1-0 binary bit that can take either value simultaneously), and represented the ability to encode only 1/8th of the data that the first computer could handle, it put a stake in the quantum-computing ground and paved the way for the developments to come as we launched into the 21st century.
