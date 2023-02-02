@@ -1,5 +1,5 @@
 default:
-  text_skin: chocolate
+  text_skin: default
   highlight_theme: tomorrow-night-blue
   lang: en
   paths:
