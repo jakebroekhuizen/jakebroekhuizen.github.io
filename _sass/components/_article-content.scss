@@ -45,14 +45,17 @@
   }
   blockquote {
     padding-left: map-get($spacers, 3);
-    font-size: map-get($base, font-size-sm);
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    font-weight: 900;
+    /*font-size: map-get($base, 2);*/
     color: $text-color-l;
-    @include split-line(left, 4px, $border-color);
+    @include split-line(left, 4px, #195fbb);
     p {
       margin: map-get($spacers, 2) 0;
     }
     & > :last-child {
-      margin-bottom: 0;
+      margin-bottom: 2rem;
     }
   }
   img:not(.emoji) {
