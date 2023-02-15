@@ -7,22 +7,11 @@ comment: false
 license: false
 show_edit_on_github: false
 ---
-Trace the route’s of the global shipping industry, add some color and you’d have a continental map that gives early satellite imagery a run for it’s money. <!--more-->
-
-<!-- <div class="card" style="  display: block; margin-left: auto; margin-right: auto; width: 100%;">
-  <div class="card__image">
-    <img class="image" src="/assets/img/WorldShippingRoutes.jpeg"/>
-  </div>
-  <div class="card__content">
-    <div class="card__header">
-      <p>Global Shipping Route</p>
-    </div>
-  </div>
-</div> -->
+Trace the routes of the global shipping industry, add some color and you’d have a pretty decent continental map. <!--more-->
 
 <figure class="post-figure">
   <img src="/assets/img/WorldShippingRoutes.jpeg" alt="Image Description" class="GCB-img">
-  <figcaption>Global Shipping routes</figcaption>
+  <figcaption>Visualization of world's shipping routes - Vox</figcaption>
 </figure>
 
 As I write this post I type on a keyboard made in China, I wear cotton sewn in India and I drink from a glass produced in Japan - all of which arrived in the US on the global conveyor belt that is the international shipping industry. 
@@ -37,5 +26,5 @@ Recently, however, the industry is making news following a wave of advancements 
 
 <figure class="post-figure">
   <img src="/assets/img/depthRadarCaptainAI.gif" alt="Image Description" class="GCB-img">
-  <figcaption>Radar</figcaption>
+  <figcaption>Data visualization of 3D scenes, plots and sensor data - Captain AI</figcaption>
 </figure>

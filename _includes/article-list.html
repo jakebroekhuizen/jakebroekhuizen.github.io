@@ -91,7 +91,7 @@
         {%- endif -%}
       {%- endfor -%}
       {%- if include.group_by == 'year' -%}
-        {%- assign _currentdate = _article.date | date: '%Y' -%}
+        {%- assign _currentdate = _article.date | date: '%B %Y' -%}
         {%- if _currentdate != _date -%}
           {%- unless forloop.first -%}</ul></section>{%- endunless -%}
           <section><h2 class="article-list__group-header">{{ _currentdate }}</h2><ul class="items">
