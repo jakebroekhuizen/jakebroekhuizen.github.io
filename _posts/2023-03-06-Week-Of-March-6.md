@@ -13,7 +13,7 @@ show_edit_on_github: false
 <!--more-->
 
 <figure class="post-figure">
-  <img src="/assets/img/kitchen-table-economics.jpeg" alt="Image Description" class="GCB-img">
+  <img src="/assets/img/kitchen-table-economics.jpg" alt="Image Description" class="GCB-img">
   <figcaption>Matt Kenyon - Financial Times</figcaption>
 </figure>
 
