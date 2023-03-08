@@ -12,6 +12,11 @@ show_edit_on_github: false
 
 <!--more-->
 
+<figure class="post-figure">
+  <img src="/assets/img/kitchen-table-economics.jpeg" alt="Image Description" class="GCB-img">
+  <figcaption>Matt Kenyon - Financial Times</figcaption>
+</figure>
+
 #### **What I’m reading**
 
 #### [The rise of kitchen table economics](https://www.ft.com/content/e53e4b14-4653-4b6e-a72f-d50f75e97cb7){:target="_blank"} 
