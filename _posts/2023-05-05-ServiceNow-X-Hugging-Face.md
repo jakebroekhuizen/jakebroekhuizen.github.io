@@ -1,5 +1,5 @@
 ---
-title: ServiceNow X Hugging Face
+title: ServiceNow x Hugging Face
 tags: Tech
 show_subscribe: false
 sharing: false
