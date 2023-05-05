@@ -8,7 +8,7 @@ license: false
 show_edit_on_github: false
 ---
 
-Royalty-free, high-powered LLM!
+Enter high-powered, royalty-free LLM's
 
 <!--more-->
 
